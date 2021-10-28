@@ -142,7 +142,7 @@ def change(x, y):
     if valid(pacman + vector(x, y)):
         aim.x = x
         aim.y = y
-
+#Comentario para nuevo push
 setup(420, 420, 370, 0)
 hideturtle()
 tracer(False)
