@@ -1,3 +1,7 @@
+#Equipo 12
+#Isaac Jacinto Ruiz A01658578
+#Klaus Manuel Cedillo Arreondo A01653257
+
 from random import choice
 from turtle import *
 from freegames import floor, vector
