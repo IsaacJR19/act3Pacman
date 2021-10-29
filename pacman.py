@@ -139,7 +139,7 @@ def move():
                     #El pacman está abajo a mi izquierda
                     options = [vector(-5, 0),vector(0, -5)] #LD
 
-=======
+
             
 
             plan = choice(options)
